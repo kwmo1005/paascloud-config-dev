@@ -137,4 +137,4 @@ paascloud:
       qiniuPath: alipay/QRCode/
   zk:
     zkAddressList: paascloud-provider-zk:2181
- 
+  
